@@ -14,15 +14,17 @@ The client sends messages to the server, and the server receives them and sends 
 - MyServer1.java – Handles client connections and sends replies.
 - MyClient1.java – Connects to the server and sends messages.
 
+
 ### Screenshots
 
-**Server Terminal**
+Server Terminal
 
-![Server Terminal](YOUR_SERVER_IMAGE_URL)
+![Server Terminal](screenshots/server.png)
 
-**Client Terminal**
+Client Terminal
 
-![Client Terminal](YOUR_CLIENT_IMAGE_URL)
+![Client Terminal](screenshots/client.png)
+
 
 ### Core Concepts
 - ServerSocket – Creates a server and listens for connections.
